@@ -1,0 +1,8 @@
+domains:
+- test-335-explaingarlic.wasmer.app
+kind: wasmer.io/App.v0
+name: explaingarlic-test-335
+owner: explaingarlic
+package: explaingarlic/test-335
+scaling:
+  mode: single_concurrency
